@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T05:01:49.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Wm8O8e6bjTCl9fDU7LuR" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T05:02:54.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="09FUwxFXS8cft3R2W7Tu" version="17.4.2" type="github">
   <diagram id="HEAv5RDAstN9kqtSiVef" name="Page-1">
     <mxGraphModel dx="1728" dy="1269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
           <mxGeometry x="393" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qLH0HjA29DdYGJ6bJzQu-38" value="&lt;b&gt;SQL Audit Logs&lt;/b&gt;&lt;br&gt;All users logged" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="950" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="960" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-1" value="User1,2,3,4" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="-73.5" width="30" height="60" as="geometry" />
@@ -281,6 +281,9 @@
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-63" value="App User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7mAVsbtx2MjZxRowj7o3-68" value="Role Assignments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="970" y="97.5" width="108" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
