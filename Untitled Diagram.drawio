@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T04:56:43.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="K6G5lFftEYxnTYka8KQS" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T04:58:20.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="MWmZSJ61MTo-B2s2zqwN" version="17.4.2" type="github">
   <diagram id="HEAv5RDAstN9kqtSiVef" name="Page-1">
-    <mxGraphModel dx="1872" dy="1364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3352" dy="2350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,28 +166,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-14" value="ftp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="145" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="7mAVsbtx2MjZxRowj7o3-15" target="7mAVsbtx2MjZxRowj7o3-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mAVsbtx2MjZxRowj7o3-15" value="Bastion&lt;br&gt;Tweak file with visual studio" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="120" height="110" as="geometry" />
+        <mxCell id="7mAVsbtx2MjZxRowj7o3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FF0000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="7mAVsbtx2MjZxRowj7o3-15" target="7mAVsbtx2MjZxRowj7o3-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mAVsbtx2MjZxRowj7o3-15" value="&lt;b&gt;Bastion&lt;/b&gt;&lt;br&gt;Tweak file with visual studio" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="25" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="7mAVsbtx2MjZxRowj7o3-17" target="7mAVsbtx2MjZxRowj7o3-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-17" value="Customer sent file" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="251" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="167.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-20" value="Source Control" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="130" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="7mAVsbtx2MjZxRowj7o3-23" target="7mAVsbtx2MjZxRowj7o3-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-23" value="JIRA Tracking" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="41" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="-73.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mAVsbtx2MjZxRowj7o3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="7mAVsbtx2MjZxRowj7o3-25" target="7mAVsbtx2MjZxRowj7o3-26">
           <mxGeometry relative="1" as="geometry" />
