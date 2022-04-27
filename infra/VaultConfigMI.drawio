@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T15:27:44.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="51H9fWhFP_JVRMPxy68q" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T15:27:58.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="W6PJaCGh-NMYY_zCoABI" version="17.4.6" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
     <mxGraphModel dx="2032" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
           <mxGeometry x="-120" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EIfzcEJgN9M4hFilZAGG-1" value="Attaching MI to servers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="290" width="150" height="30" as="geometry" />
+          <mxGeometry x="-35" y="260" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
