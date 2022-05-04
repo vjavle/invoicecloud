@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T20:32:06.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="7i4epLyte4ACntJua6al" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-04T15:42:08.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Q0xpizyV1dEhSorPIiZm" version="17.5.0" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
-    <mxGraphModel dx="2451" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2682" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="4nN_hkCpA0y3XhS5fevN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4nN_hkCpA0y3XhS5fevN-8" target="4nN_hkCpA0y3XhS5fevN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4nN_hkCpA0y3XhS5fevN-8" value="Vault&lt;br&gt;devTest1CRMMI&lt;br&gt;devTest1ProxyMI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4nN_hkCpA0y3XhS5fevN-8" value="&lt;b&gt;&lt;u&gt;Runtime Vault&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-9" target="4nN_hkCpA0y3XhS5fevN-1" edge="1">
@@ -75,13 +75,8 @@
         <mxCell id="4nN_hkCpA0y3XhS5fevN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="4nN_hkCpA0y3XhS5fevN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4nN_hkCpA0y3XhS5fevN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="4nN_hkCpA0y3XhS5fevN-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="390" />
-              <mxPoint x="320" y="100" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="4nN_hkCpA0y3XhS5fevN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="4zyiIkAmQCPTLW6ynnsu-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-19" value="&lt;b&gt;&lt;u&gt;ADO Var group&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Other vars&lt;br&gt;uid/pwd" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="360" width="120" height="60" as="geometry" />
@@ -103,6 +98,12 @@
         </mxCell>
         <mxCell id="EIfzcEJgN9M4hFilZAGG-1" value="Attaching MI to servers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-35" y="260" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zyiIkAmQCPTLW6ynnsu-21" value="WebApp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zyiIkAmQCPTLW6ynnsu-22" value="&lt;b&gt;&lt;u&gt;CI/CD Vault&lt;/u&gt;&lt;/b&gt;&lt;br&gt;devTest1CRMMI&lt;br&gt;devTest1ProxyMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
