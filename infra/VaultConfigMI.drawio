@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T15:50:35.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="9Op7W64mf4ukFM3hV76z" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-04T16:08:00.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="uoQBF6jkQRqRo9O2fpGK" version="17.5.0" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
     <mxGraphModel dx="2191" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -112,13 +112,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-24" value="Service Desk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zyiIkAmQCPTLW6ynnsu-25" target="4zyiIkAmQCPTLW6ynnsu-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4zyiIkAmQCPTLW6ynnsu-25" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="40" width="30" height="60" as="geometry" />
+        <mxCell id="4zyiIkAmQCPTLW6ynnsu-25" value="New MI Requestor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="30" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
