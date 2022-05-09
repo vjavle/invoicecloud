@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T20:33:58.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="a2AYhEUO3NavsWU64oNU" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T15:07:40.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="3SDI7-zqa_4M9usQpzJ5" version="18.0.1" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
-    <mxGraphModel dx="2191" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2191" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxPoint x="940" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4nN_hkCpA0y3XhS5fevN-1" value="WebApp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4nN_hkCpA0y3XhS5fevN-1" value="Function" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-2" target="4nN_hkCpA0y3XhS5fevN-1" edge="1">
@@ -97,7 +97,7 @@
           <mxGeometry x="-120" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EIfzcEJgN9M4hFilZAGG-1" value="Attaching MI to servers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="260" width="150" height="30" as="geometry" />
+          <mxGeometry x="-15" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-21" value="WebApp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="190" width="120" height="60" as="geometry" />
