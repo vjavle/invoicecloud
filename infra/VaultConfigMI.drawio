@@ -1,21 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T17:14:51.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="0ZYadp5HUF4NRSNFxFQX" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T17:15:05.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="aLk-KAOeYPW6SW83X8vO" version="18.0.5" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
-    <mxGraphModel dx="4264" dy="2918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="4264" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lNjt4yixWfhWaSo6x5qq-19" value="Webserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="316" y="230" width="100" height="100" as="geometry" />
+          <mxGeometry x="576" y="465" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-18" value="myiis app deploy pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;spacingLeft=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="450" y="228" width="200" height="82" as="geometry" />
+          <mxGeometry x="710" y="463" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="myVT4ZY7YelXLnBJ3rQM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;spacingLeft=-29;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="245" width="470" height="70" as="geometry" />
+          <mxGeometry x="30" y="480" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-2" target="4zyiIkAmQCPTLW6ynnsu-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="310" as="targetPoint" />
+            <mxPoint x="660" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-36" value="mi-CRM-devtest1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4nN_hkCpA0y3XhS5fevN-35" vertex="1" connectable="0">
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-2" value="Proxy Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="316" y="395" width="100" height="40" as="geometry" />
+          <mxGeometry x="576" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-5" target="4nN_hkCpA0y3XhS5fevN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-5" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="306" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="566" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-8" target="4zyiIkAmQCPTLW6ynnsu-21">
           <mxGeometry relative="1" as="geometry" />
@@ -47,19 +47,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-12" value="&lt;b&gt;&lt;u&gt;Library Variable Group&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Vault Configuration&lt;/b&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-SKU&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Readers&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Writers&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-ToCreateOrNot&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;AppConfig Configuration&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-SKU&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Readers&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Writers&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-ToCreateOrNot&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;b&gt;List of MIS and their assignments existing VMs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="-40" width="153" height="190" as="geometry" />
+          <mxGeometry x="-100" y="195" width="153" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lNjt4yixWfhWaSo6x5qq-21" target="4zyiIkAmQCPTLW6ynnsu-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="513" as="sourcePoint" />
-            <mxPoint x="970" y="240" as="targetPoint" />
+            <mxPoint x="570" y="748" as="sourcePoint" />
+            <mxPoint x="1230" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-17" target="lNjt4yixWfhWaSo6x5qq-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-17" value="myiis artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="667" y="262" width="100" height="30" as="geometry" />
+          <mxGeometry x="927" y="497" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="lNjt4yixWfhWaSo6x5qq-18">
           <mxGeometry relative="1" as="geometry" />
@@ -68,52 +68,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-19" value="&lt;b&gt;&lt;u&gt;ADO Var group&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Other vars&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-CI/CD Vault uid/pwd&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="716" y="157" width="120" height="53" as="geometry" />
+          <mxGeometry x="976" y="392" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-25" target="4nN_hkCpA0y3XhS5fevN-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-25" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;User maintaining&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;App Runtime secrets&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;from Azure Portal&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="289.25" y="6" width="23.5" height="47" as="geometry" />
+          <mxGeometry x="549.25" y="241" width="23.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-21" value="myiis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="328.5" y="252" width="75" height="23" as="geometry" />
+          <mxGeometry x="588.5" y="487" width="75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4zyiIkAmQCPTLW6ynnsu-22" target="lNjt4yixWfhWaSo6x5qq-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-22" value="&lt;b&gt;&lt;u&gt;CI/CD Vault&lt;/u&gt;&lt;/b&gt;&lt;br&gt;devTest1CRMMI&lt;br&gt;devTest1ProxyMI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="123" y="-35" width="102" height="60" as="geometry" />
+          <mxGeometry x="383" y="200" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zyiIkAmQCPTLW6ynnsu-23" target="lNjt4yixWfhWaSo6x5qq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-23" value="Approval" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="32" y="252.5" width="55" height="55" as="geometry" />
+          <mxGeometry x="292" y="487.5" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4zyiIkAmQCPTLW6ynnsu-24" target="4zyiIkAmQCPTLW6ynnsu-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-24" value="Service Desk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="285" width="120" height="45" as="geometry" />
+          <mxGeometry x="-190" y="520" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4zyiIkAmQCPTLW6ynnsu-25" target="4zyiIkAmQCPTLW6ynnsu-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-25" value="New MI Requestor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-398" y="170" width="15" height="40" as="geometry" />
+          <mxGeometry x="-138" y="405" width="15" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-6" target="lNjt4yixWfhWaSo6x5qq-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-6" value="&lt;span style=&quot;&quot;&gt;&lt;u&gt;Terraform Tasks&lt;/u&gt;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Vault Deploy&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-AppConfig Deploy&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-221.5" y="253.5" width="103" height="53" as="geometry" />
+          <mxGeometry x="38.5" y="488.5" width="103" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-7" target="4zyiIkAmQCPTLW6ynnsu-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-7" value="&lt;span style=&quot;&quot;&gt;&lt;u&gt;Terraform Task&lt;/u&gt;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-MI Creation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="253.5" width="82" height="53" as="geometry" />
+          <mxGeometry x="178" y="488.5" width="82" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-9" target="4zyiIkAmQCPTLW6ynnsu-22">
           <mxGeometry relative="1" as="geometry" />
@@ -125,34 +125,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-9" value="&lt;u&gt;Shell Task&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Add MIs to KeyVault&lt;/span&gt;&lt;/div&gt;&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Assign MI to VMs&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="117" y="250" width="114" height="60" as="geometry" />
+          <mxGeometry x="377" y="485" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-13" target="lNjt4yixWfhWaSo6x5qq-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-170" y="-85" />
+              <mxPoint x="90" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-13" target="4zyiIkAmQCPTLW6ynnsu-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" as="targetPoint" />
+            <mxPoint x="330" y="235" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-170" y="-5" />
+              <mxPoint x="90" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-13" value="&lt;span style=&quot;&quot;&gt;&lt;u&gt;Terraform Tasks&lt;/u&gt;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Vault Deploy&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-AppConfig Deploy&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-221.5" y="253.5" width="103" height="53" as="geometry" />
+          <mxGeometry x="38.5" y="488.5" width="103" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-14" value="&lt;b&gt;&lt;u&gt;CI/CD AppConfig&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="123" y="-115" width="102" height="60" as="geometry" />
+          <mxGeometry x="383" y="120" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-21" value="-Retrieves MI needed for myiis&lt;br&gt;-Extracts myiis artifact&lt;br&gt;-Embeds MI into app.configs" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="460" y="252" width="180" height="50" as="geometry" />
+          <mxGeometry x="720" y="487" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="128" width="232" height="60" as="geometry" />
+          <mxGeometry x="510" y="363" width="232" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-8" value="&lt;b&gt;&lt;u&gt;Runtime Vault&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="lNjt4yixWfhWaSo6x5qq-23" vertex="1">
           <mxGeometry width="102" height="60" as="geometry" />
@@ -164,22 +164,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-31" value="&lt;span style=&quot;&quot;&gt;CRM app deploy pipeline&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;spacingLeft=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="449" y="321" width="201" height="82" as="geometry" />
+          <mxGeometry x="709" y="556" width="201" height="82" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="lNjt4yixWfhWaSo6x5qq-33" target="lNjt4yixWfhWaSo6x5qq-34" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-33" value="CRM artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="355" width="100" height="30" as="geometry" />
+          <mxGeometry x="927" y="590" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-34" value="-Retrieves MI needed for CRM&lt;br&gt;-Extracts CRM artifact&lt;br&gt;-Embeds MI into app.configs" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="459" y="345" width="180" height="50" as="geometry" />
+          <mxGeometry x="719" y="580" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-35" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328.5" y="298" width="75" height="23" as="geometry" />
+          <mxGeometry x="588.5" y="533" width="75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-41" value="myiis artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="262" width="100" height="30" as="geometry" />
+          <mxGeometry x="927" y="497" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
