@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T17:04:25.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="XQ2hrRskTuhOIT-gcqb-" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T17:12:39.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="vj3deSWNDMHACHfSnBGo" version="18.0.5" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
-    <mxGraphModel dx="2418" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lNjt4yixWfhWaSo6x5qq-19" value="Webserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="316" y="220" width="100" height="70" as="geometry" />
+          <mxGeometry x="316" y="220" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lNjt4yixWfhWaSo6x5qq-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;spacingLeft=-29;" vertex="1" parent="1">
-          <mxGeometry x="450" y="228" width="200" height="70" as="geometry" />
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-18" value="myiis app deploy pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;spacingLeft=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="228" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="myVT4ZY7YelXLnBJ3rQM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;spacingLeft=-29;" parent="1" vertex="1">
           <mxGeometry x="-230" y="220" width="470" height="70" as="geometry" />
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-2" value="Proxy Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="316" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="322.75" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-5" target="4nN_hkCpA0y3XhS5fevN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-5" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="306" y="446" width="120" height="60" as="geometry" />
+          <mxGeometry x="312.75" y="686" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-8" target="4zyiIkAmQCPTLW6ynnsu-21">
           <mxGeometry relative="1" as="geometry" />
@@ -58,14 +58,17 @@
         <mxCell id="lNjt4yixWfhWaSo6x5qq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-17" target="lNjt4yixWfhWaSo6x5qq-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4nN_hkCpA0y3XhS5fevN-17" value="artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="248" width="100" height="30" as="geometry" />
+        <mxCell id="4nN_hkCpA0y3XhS5fevN-17" value="myiis artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="689" y="262" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lNjt4yixWfhWaSo6x5qq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="lNjt4yixWfhWaSo6x5qq-18">
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="lNjt4yixWfhWaSo6x5qq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.288;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="lNjt4yixWfhWaSo6x5qq-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-19" value="&lt;b&gt;&lt;u&gt;ADO Var group&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Other vars&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-CI/CD Vault uid/pwd&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="117" width="120" height="53" as="geometry" />
+          <mxGeometry x="738" y="157" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-25" target="4nN_hkCpA0y3XhS5fevN-8">
           <mxGeometry relative="1" as="geometry" />
@@ -73,8 +76,8 @@
         <mxCell id="4nN_hkCpA0y3XhS5fevN-25" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;User maintaining&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;App Runtime secrets&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;from Azure Portal&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="289.25" y="6" width="23.5" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="4zyiIkAmQCPTLW6ynnsu-21" value="WebApp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="328.5" y="243" width="75" height="40" as="geometry" />
+        <mxCell id="4zyiIkAmQCPTLW6ynnsu-21" value="myiis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="328.5" y="252" width="75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4zyiIkAmQCPTLW6ynnsu-22" target="lNjt4yixWfhWaSo6x5qq-21">
           <mxGeometry relative="1" as="geometry" />
@@ -148,8 +151,8 @@
         <mxCell id="lNjt4yixWfhWaSo6x5qq-14" value="&lt;b&gt;&lt;u&gt;CI/CD AppConfig&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="123" y="-115" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lNjt4yixWfhWaSo6x5qq-21" value="-Retrieves MI needed for the app&lt;br&gt;-Extracts artifact&lt;br&gt;-Embeds MI into app.configs" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="460" y="233" width="180" height="60" as="geometry" />
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-21" value="-Retrieves MI needed for myiis&lt;br&gt;-Extracts myiis artifact&lt;br&gt;-Embeds MI into app.configs" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="252" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-23" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="250" y="128" width="232" height="60" as="geometry" />
@@ -159,6 +162,27 @@
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-9" value="Config&lt;br&gt;Featureflags" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="lNjt4yixWfhWaSo6x5qq-23" vertex="1">
           <mxGeometry x="130" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-31" target="lNjt4yixWfhWaSo6x5qq-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-31" value="&lt;span style=&quot;&quot;&gt;CRM app deploy pipeline&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;spacingLeft=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="321" width="201" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="lNjt4yixWfhWaSo6x5qq-33" target="lNjt4yixWfhWaSo6x5qq-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-33" value="CRM artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="689" y="355" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-34" value="-Retrieves MI needed for CRM&lt;br&gt;-Extracts CRM artifact&lt;br&gt;-Embeds MI into app.configs" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="345" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-35" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328.5" y="298" width="75" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-41" value="myiis artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="689" y="262" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
