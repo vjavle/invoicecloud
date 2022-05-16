@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T17:12:54.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="RMOKSVngFY-ruCTb1zC4" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T17:13:49.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="zHET6OLWw3RwOcFC0SHV" version="18.0.5" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
-    <mxGraphModel dx="1733" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2004" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lNjt4yixWfhWaSo6x5qq-19" value="Webserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="316" y="220" width="100" height="110" as="geometry" />
+          <mxGeometry x="316" y="230" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-18" value="myiis app deploy pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;spacingLeft=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="450" y="228" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="myVT4ZY7YelXLnBJ3rQM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;spacingLeft=-29;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="220" width="470" height="70" as="geometry" />
+          <mxGeometry x="-230" y="245" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-2" target="4zyiIkAmQCPTLW6ynnsu-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -20,11 +20,11 @@
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-36" value="mi-CRM-devtest1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4nN_hkCpA0y3XhS5fevN-35" vertex="1" connectable="0">
           <mxGeometry x="0.117" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-2" value="Proxy Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="322.75" y="580" width="100" height="40" as="geometry" />
+          <mxGeometry x="316" y="395" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="4nN_hkCpA0y3XhS5fevN-5" target="4nN_hkCpA0y3XhS5fevN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-5" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="312.75" y="686" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-8" target="4zyiIkAmQCPTLW6ynnsu-21">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-23" value="Approval" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="32" y="227.5" width="55" height="55" as="geometry" />
+          <mxGeometry x="32" y="252.5" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4zyiIkAmQCPTLW6ynnsu-24" target="4zyiIkAmQCPTLW6ynnsu-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -110,13 +110,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-6" value="&lt;span style=&quot;&quot;&gt;&lt;u&gt;Terraform Tasks&lt;/u&gt;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Vault Deploy&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-AppConfig Deploy&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-221.5" y="228.5" width="103" height="53" as="geometry" />
+          <mxGeometry x="-221.5" y="253.5" width="103" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-7" target="4zyiIkAmQCPTLW6ynnsu-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-7" value="&lt;span style=&quot;&quot;&gt;&lt;u&gt;Terraform Task&lt;/u&gt;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-MI Creation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="228.5" width="82" height="53" as="geometry" />
+          <mxGeometry x="-82" y="253.5" width="82" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-9" target="4zyiIkAmQCPTLW6ynnsu-22">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-9" value="&lt;u&gt;Shell Task&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Add MIs to KeyVault&lt;/span&gt;&lt;/div&gt;&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Assign MI to VMs&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="117" y="225" width="114" height="60" as="geometry" />
+          <mxGeometry x="117" y="250" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-13" target="lNjt4yixWfhWaSo6x5qq-14">
           <mxGeometry relative="1" as="geometry">
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-13" value="&lt;span style=&quot;&quot;&gt;&lt;u&gt;Terraform Tasks&lt;/u&gt;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Vault Deploy&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-AppConfig Deploy&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-221.5" y="228.5" width="103" height="53" as="geometry" />
+          <mxGeometry x="-221.5" y="253.5" width="103" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-14" value="&lt;b&gt;&lt;u&gt;CI/CD AppConfig&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="123" y="-115" width="102" height="60" as="geometry" />
