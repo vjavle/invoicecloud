@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T17:01:01.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="IB00KAPQ6DvWI-lGvDpm" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T17:04:25.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="XQ2hrRskTuhOIT-gcqb-" version="18.0.5" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
     <mxGraphModel dx="2418" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -73,15 +73,6 @@
         <mxCell id="4nN_hkCpA0y3XhS5fevN-25" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;User maintaining&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;App Runtime secrets&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;from Azure Portal&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="289.25" y="6" width="23.5" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="4nN_hkCpA0y3XhS5fevN-29" value="App Pipeline" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="60" y="610" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4nN_hkCpA0y3XhS5fevN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4nN_hkCpA0y3XhS5fevN-31" target="4nN_hkCpA0y3XhS5fevN-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4nN_hkCpA0y3XhS5fevN-31" value="artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4zyiIkAmQCPTLW6ynnsu-21" value="WebApp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="328.5" y="243" width="75" height="40" as="geometry" />
         </mxCell>
@@ -128,6 +119,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-9" target="lNjt4yixWfhWaSo6x5qq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lNjt4yixWfhWaSo6x5qq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lNjt4yixWfhWaSo6x5qq-9" target="4nN_hkCpA0y3XhS5fevN-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-9" value="&lt;u&gt;Shell Task&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Add MIs to KeyVault&lt;/span&gt;&lt;/div&gt;&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Assign MI to VMs&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
