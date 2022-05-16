@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T17:12:39.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="vj3deSWNDMHACHfSnBGo" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T17:12:54.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="RMOKSVngFY-ruCTb1zC4" version="18.0.5" type="github">
   <diagram id="GPC_CmMIk8cj1dyn7sNr" name="Page-1">
     <mxGraphModel dx="1733" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-17" value="myiis artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="689" y="262" width="100" height="30" as="geometry" />
+          <mxGeometry x="667" y="262" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-19" target="lNjt4yixWfhWaSo6x5qq-18">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nN_hkCpA0y3XhS5fevN-19" value="&lt;b&gt;&lt;u&gt;ADO Var group&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Other vars&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-CI/CD Vault uid/pwd&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="738" y="157" width="120" height="53" as="geometry" />
+          <mxGeometry x="716" y="157" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4nN_hkCpA0y3XhS5fevN-25" target="4nN_hkCpA0y3XhS5fevN-8">
           <mxGeometry relative="1" as="geometry" />
@@ -167,22 +167,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-31" value="&lt;span style=&quot;&quot;&gt;CRM app deploy pipeline&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;spacingLeft=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="470" y="321" width="201" height="82" as="geometry" />
+          <mxGeometry x="449" y="321" width="201" height="82" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="lNjt4yixWfhWaSo6x5qq-33" target="lNjt4yixWfhWaSo6x5qq-34" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-33" value="CRM artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="689" y="355" width="100" height="30" as="geometry" />
+          <mxGeometry x="667" y="355" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-34" value="-Retrieves MI needed for CRM&lt;br&gt;-Extracts CRM artifact&lt;br&gt;-Embeds MI into app.configs" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="345" width="180" height="50" as="geometry" />
+          <mxGeometry x="459" y="345" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-35" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328.5" y="298" width="75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="lNjt4yixWfhWaSo6x5qq-41" value="myiis artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="689" y="262" width="100" height="30" as="geometry" />
+          <mxGeometry x="667" y="262" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
