@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T19:43:56.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="UML09ws7FUwDpJfMvvda" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T19:48:10.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="cQQZNMx692rBTaFxHRRS" version="19.0.0" type="github">
   <diagram id="v1QnTUUD2QEwfElIRPHi" name="Page-1">
-    <mxGraphModel dx="1582" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
         <mxCell id="hA38Nj5Dz_K63DC-Dnh9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="hA38Nj5Dz_K63DC-Dnh9-2" target="hA38Nj5Dz_K63DC-Dnh9-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hA38Nj5Dz_K63DC-Dnh9-2" value="port 443 service&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;old invoicecloud.com cert" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hA38Nj5Dz_K63DC-Dnh9-2" value="port 443 service&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;old invoicecloud.com cert&lt;br&gt;new invoicecloud.com cert" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="531" y="210" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hA38Nj5Dz_K63DC-Dnh9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="hA38Nj5Dz_K63DC-Dnh9-8" target="hA38Nj5Dz_K63DC-Dnh9-9" edge="1">
@@ -45,11 +45,11 @@
         <mxCell id="hA38Nj5Dz_K63DC-Dnh9-8" value="&amp;nbsp;port 2000 service&lt;br style=&quot;font-size: 14px;&quot;&gt;new invoicecloud.com cert" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="531" y="395" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hA38Nj5Dz_K63DC-Dnh9-9" value="&lt;b&gt;&lt;u&gt;test web server&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;new nvoicecloud.com cert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="746" y="405" width="170" height="60" as="geometry" />
+        <mxCell id="hA38Nj5Dz_K63DC-Dnh9-9" value="&lt;b&gt;&lt;u&gt;test web server&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&amp;nbsp;new nvoicecloud.com cert&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="746" y="405" width="174" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hA38Nj5Dz_K63DC-Dnh9-10" value="&lt;b&gt;&lt;u&gt;all de/prod web servers&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;strike style=&quot;font-size: 14px;&quot;&gt;old nvoicecloud.com cert&lt;/strike&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;new nvoicecloud.com cert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="741" y="200" width="180" height="100" as="geometry" />
+        <mxCell id="hA38Nj5Dz_K63DC-Dnh9-10" value="&lt;b&gt;&lt;u&gt;all de/prod web servers&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;strike style=&quot;font-size: 14px;&quot;&gt;old nvoicecloud.com cert&lt;/strike&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;b&gt;&amp;nbsp;new nvoicecloud.com cert&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="741" y="200" width="189" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
